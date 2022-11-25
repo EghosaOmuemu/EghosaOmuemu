@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+####I'm Eghosa, a medically inclined individual with interest in Tech.
+
 <!--
 **EghosaOmuemu/EghosaOmuemu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
